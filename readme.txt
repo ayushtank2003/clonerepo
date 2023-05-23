@@ -11,4 +11,4 @@ git push -u origin master
 
 
 token  seting -> developer setting -> personal acess-> token ->generate new token-> classic->name ->all permisions 
-now atart
+now start
